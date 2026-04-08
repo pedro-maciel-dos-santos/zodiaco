@@ -1,4 +1,3 @@
-// ZodiacSign — main.js
 // Validação do formulário via JavaScript
 
 document.addEventListener('DOMContentLoaded', function () {

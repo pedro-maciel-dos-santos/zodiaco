@@ -26,10 +26,10 @@ $ano_nasc = $dt_nasc->format('Y');
 $mes_nasc = (int) $dt_nasc->format('m');
 $dia_nasc = (int) $dt_nasc->format('d');
 
-/**
- * Converte uma data no formato "dd/mm" em um timestamp usando o ano fornecido.
- * Capricórnio tem início em dezembro — ajusta o ano se necessário.
- */
+
+//Converte uma data no formato "dd/mm" em um timestamp usando o ano fornecido.
+//Capricórnio tem início em dezembro — ajusta o ano se necessário.
+
 function converterData($data_str, $ano_base, $dia_nasc_mes, $dia_nasc_dia, $tipo = 'inicio')
 {
     list($dia, $mes) = explode('/', $data_str);
