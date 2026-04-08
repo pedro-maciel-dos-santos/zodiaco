@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <simbolo>♈</simbolo>
+        <elemento>Fogo</elemento>
+        <planeta>Marte</planeta>
+        <cor>#FF4136</cor>
+        <descricao>Áries é o primeiro signo do zodíaco e representa o início de tudo. Os arianos são conhecidos por sua energia vibrante, coragem e espírito pioneiro. São líderes natos, impulsivos e determinados, sempre prontos para enfrentar novos desafios com entusiasmo e paixão.</descricao>
+        <caracteristicas>Corajoso, determinado, confiante, entusiasmado, otimista, honesto, impulsivo</caracteristicas>
+        <pontoForte>Liderança e iniciativa</pontoForte>
+        <pontoFraco>Impulsividade e impaciência</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <simbolo>♉</simbolo>
+        <elemento>Terra</elemento>
+        <planeta>Vênus</planeta>
+        <cor>#2ECC40</cor>
+        <descricao>Touro é o signo da estabilidade e da persistência. Os taurinos são pessoas práticas, confiáveis e extremamente determinadas. Valorizam o conforto, a beleza e os prazeres da vida. São leais e pacientes, mas quando decidem algo, dificilmente mudam de ideia.</descricao>
+        <caracteristicas>Confiável, paciente, prático, dedicado, responsável, estável, teimoso</caracteristicas>
+        <pontoForte>Determinação e lealdade</pontoForte>
+        <pontoFraco>Teimosia e possessividade</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <simbolo>♊</simbolo>
+        <elemento>Ar</elemento>
+        <planeta>Mercúrio</planeta>
+        <cor>#FFDC00</cor>
+        <descricao>Gêmeos é o signo da dualidade e da comunicação. Os geminianos são curiosos, adaptáveis e adoram aprender sobre tudo. São excelentes comunicadores, cheios de ideias e muito sociáveis. Sua natureza dual pode torná-los versáteis, mas às vezes indecisas.</descricao>
+        <caracteristicas>Gentil, afetivo, curioso, adaptável, aprendiz rápido, sociável, versátil</caracteristicas>
+        <pontoForte>Comunicação e versatilidade</pontoForte>
+        <pontoFraco>Indecisão e inconsistência</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <simbolo>♋</simbolo>
+        <elemento>Água</elemento>
+        <planeta>Lua</planeta>
+        <cor>#7FDBFF</cor>
+        <descricao>Câncer é o signo da sensibilidade e do lar. Os cancerianos são profundamente intuitivos e sentimentais, valorizando acima de tudo família e amizades próximas. São empáticos, protetores e extremamente leais. Seu humor pode variar muito, assim como as fases da lua.</descricao>
+        <caracteristicas>Tenaz, altamente imaginativo, leal, emotivo, simpático, persuasivo, protetor</caracteristicas>
+        <pontoForte>Intuição e empatia</pontoForte>
+        <pontoFraco>Humor instável e apego excessivo</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <simbolo>♌</simbolo>
+        <elemento>Fogo</elemento>
+        <planeta>Sol</planeta>
+        <cor>#FF851B</cor>
+        <descricao>Leão é o signo da realeza e da criatividade. Os leoninos são naturalmente carismáticos, generosos e cheios de vida. Adoram estar no centro das atenções e têm um dom especial para a liderança e as artes. São leais e protetores com aqueles que amam.</descricao>
+        <caracteristicas>Criativo, apaixonado, generoso, carismático, humano, líder, dramático</caracteristicas>
+        <pontoForte>Criatividade e liderança</pontoForte>
+        <pontoFraco>Arrogância e inflexibilidade</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <simbolo>♍</simbolo>
+        <elemento>Terra</elemento>
+        <planeta>Mercúrio</planeta>
+        <cor>#01FF70</cor>
+        <descricao>Virgem é o signo da perfeição e do serviço. Os virginianos são analíticos, meticulosos e extremamente dedicados. Têm uma atenção impressionante aos detalhes e um senso crítico aguçado. São prestáveis e práticos, sempre buscando melhorar tudo ao seu redor.</descricao>
+        <caracteristicas>Leal, analítico, gentil, trabalhador, prático, crítico, perfeccionista</caracteristicas>
+        <pontoForte>Análise e organização</pontoForte>
+        <pontoFraco>Perfeccionismo e autocrítica</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <simbolo>♎</simbolo>
+        <elemento>Ar</elemento>
+        <planeta>Vênus</planeta>
+        <cor>#F012BE</cor>
+        <descricao>Libra é o signo do equilíbrio e da harmonia. Os librianos são diplomáticos, charmosos e têm um senso estético refinado. Valorizam a justiça e buscam sempre o equilíbrio em todas as situações. São sociáveis e cooperativos, mas podem ter dificuldade em tomar decisões.</descricao>
+        <caracteristicas>Cooperativo, diplomático, gracioso, justo, social, indeciso, evita confrontos</caracteristicas>
+        <pontoForte>Diplomacia e senso de justiça</pontoForte>
+        <pontoFraco>Indecisão e insegurança</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <simbolo>♏</simbolo>
+        <elemento>Água</elemento>
+        <planeta>Plutão</planeta>
+        <cor>#B10DC9</cor>
+        <descricao>Escorpião é o signo da transformação e da intensidade. Os escorpianos são apaixonados, determinados e possuem uma percepção aguçada da natureza humana. São leais e protetores, mas também podem ser ciumentos e possessivos. Sua intensidade os torna pessoas de grande magnetismo.</descricao>
+        <caracteristicas>Determinado, corajoso, leal, apaixonado, obstinado, desconfiado, intenso</caracteristicas>
+        <pontoForte>Determinação e intuição</pontoForte>
+        <pontoFraco>Ciúme e manipulação</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <simbolo>♐</simbolo>
+        <elemento>Fogo</elemento>
+        <planeta>Júpiter</planeta>
+        <cor>#FF4136</cor>
+        <descricao>Sagitário é o signo da aventura e da filosofia. Os sagitarianos são otimistas, aventureiros e amam a liberdade acima de tudo. São curiosos e extrovertidos, sempre em busca de conhecimento e novas experiências. Sua sinceridade pode ser um pouco direta demais às vezes.</descricao>
+        <caracteristicas>Generoso, idealista, bom humor, filosófico, desonesto, impaciente, aventureiro</caracteristicas>
+        <pontoForte>Otimismo e sabedoria</pontoForte>
+        <pontoFraco>Falta de tato e irresponsabilidade</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <simbolo>♑</simbolo>
+        <elemento>Terra</elemento>
+        <planeta>Saturno</planeta>
+        <cor>#3D9970</cor>
+        <descricao>Capricórnio é o signo da ambição e da disciplina. Os capricornianos são responsáveis, disciplinados e possuem um autocontrole notável. São perseverantes e práticos, sempre com foco em seus objetivos de longo prazo. São leais e confiáveis, mas podem ser muito rígidos.</descricao>
+        <caracteristicas>Responsável, disciplinado, autocontrole, boa gestão, qualidade, desconfiante, pessimista</caracteristicas>
+        <pontoForte>Disciplina e responsabilidade</pontoForte>
+        <pontoFraco>Rigidez e pessimismo</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <simbolo>♒</simbolo>
+        <elemento>Ar</elemento>
+        <planeta>Urano</planeta>
+        <cor>#0074D9</cor>
+        <descricao>Aquário é o signo da inovação e da humanidade. Os aquarianos são progressistas, originais e independentes. São pensadores à frente do seu tempo, com grande capacidade humanitária e amor pela liberdade. Podem parecer distantes, mas se importam profundamente com o bem-estar coletivo.</descricao>
+        <caracteristicas>Progressivo, original, independente, humanitário, temperamental, não comprometido, distante</caracteristicas>
+        <pontoForte>Originalidade e humanitarismo</pontoForte>
+        <pontoFraco>Frieza emocional e teimosia</pontoFraco>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <simbolo>♓</simbolo>
+        <elemento>Água</elemento>
+        <planeta>Netuno</planeta>
+        <cor>#7FDBFF</cor>
+        <descricao>Peixes é o signo da intuição e da compaixão. Os piscinianos são compassivos, artísticos e extremamente intuitivos. São sensíveis às emoções alheias e possuem uma riqueza interior muito profunda. Têm grande imaginação e são frequentemente ligados às artes e à espiritualidade.</descricao>
+        <caracteristicas>Compassivo, artístico, intuitivo, gentil, sábio, musical, excessivamente confiante</caracteristicas>
+        <pontoForte>Compaixão e criatividade</pontoForte>
+        <pontoFraco>Escapismo e vitimização</pontoFraco>
+    </signo>
+</signos>
